@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é Rogério M. Soares
-- 👀 Curto programação e atualmente estou desenvolvendo em Pyython com framework Django. Também sou apaixonado por educação e trabalho com jovens em cursos técnicos de programação de jogos.
+- 👋 Olá, meu nome é Rogério Soares
+- 👀 Curto programação e atualmente estou desenvolvendo em Pyython com framework Django.
 - 🌱 Atualmente estou aprendendo Python/Django.
 - 💞️ No momento, não colaboro com nenhum projeto, pois ainda preciso avançar mais nos meus estudos e aprendizado.
 - 📫 Você pode entrar em contato comigo pelo e-mail cadastrado na plataforma.
